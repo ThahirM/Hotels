@@ -1,0 +1,10 @@
+//
+//  Release.xcconfig
+//  TajawalHotels
+//
+//  Created by Thahir Maheen on 10/5/18.
+//  Copyright © 2018 Thahir Maheen. All rights reserved.
+//
+
+URL_SCHEME = https
+URL_HOST = api.myjson.com
